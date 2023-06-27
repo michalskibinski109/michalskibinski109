@@ -1,4 +1,4 @@
-![](https://visitcount.itsvg.in/api?id=michalskibinski109&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=michalskibinski109&icon=0&color=12)](https://visitcount.itsvg.in)
 # Michał Skibiński
 
 📧 Email: mskibinski109@gmail.com  

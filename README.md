@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=michalskibinski109&icon=0&color=12)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michał-skibiński-374455236) 
+
 # Michał Skibiński
 
 📧 Email: mskibinski109@gmail.com  
 📍 Location: Wrocław, Poland
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michał-skibiński-374455236) 
 
 ## About Me
 I am currently pursuing my studies in Systems Engineering at Wrocław University of Technology. I have a passion for technology and enjoy working with various programming languages and tools. My primary focus is on web development and machine learning.

@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=michalskibinski109&icon=0&color=12)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michał-skibiński-374455236) 
 
 # Michał Skibiński

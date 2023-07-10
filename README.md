@@ -2,10 +2,6 @@
 
 # Michał Skibiński
 
-📧 Email: mskibinski109@gmail.com  
-📍 Location: Wrocław, Poland
-
-## About Me
 I am currently pursuing my studies in Systems Engineering at Wrocław University of Technology. Working in Nokia as backend developer in python since 2022. I have a passion for technology and enjoy working with various programming languages and tools. My primary focus is on web development and machine learning.
 
 ## 💻 Tech Stack:
